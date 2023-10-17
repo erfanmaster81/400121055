@@ -2,8 +2,15 @@
 using namespace std;
 int main()
 {
-char c[]="hello c++ student \n";
-cout<<"hello world\n";
-cout<<c;
+int age;
+cout<<"Please Enter Your Age : ";
+if(cin>>age)
+    {
+        cout<<"\n Your Age Is :" << " " << age;
+    }
+else 
+    {
+        cout<<"You Enter Wrong Number!!";
+    }
 return 0;
 }
