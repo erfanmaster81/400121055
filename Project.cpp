@@ -2,5 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<"hello world";
+char c[]="hello c++ student \n";
+cout<<"hello world\n";
+cout<<c;
+return 0;
 }
