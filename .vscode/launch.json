@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/erfan/OneDrive/دسکتاپ/Advance-Programming",
-      "program": "c:/Users/erfan/OneDrive/دسکتاپ/Advance-Programming/build/Debug/outDebug",
+      "cwd": "d:/damghan-university/Advance-Programming",
+      "program": "d:/damghan-university/Advance-Programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
